@@ -1,6 +1,6 @@
 # Ejercicio 2 - Products and Sales Data Loader
 
-![Flake8](https://github.com/santi/Ejercicio_2/actions/workflows/flake8.yml/badge.svg)
+![Flake8](https://github.com/A01796029/A01796029A5.2/actions/workflows/flake8.yml/badge.svg)
 
 This project provides a command-line interface to load and manage product and sales data from JSON files.
 
