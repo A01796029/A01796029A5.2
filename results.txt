@@ -1,0 +1,4 @@
+=== Results for: .\A5.2 Archivos de Apoyo\TC1\TC1.Sales.json ===
+Total Sales Revenue: $2481.86
+Total Execution Time: 0.00 seconds
+----------------------------------------
